@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         NewObject.Name="slide rule";
         NewObject.price=100;
+        NewObject.functionality=8;
         NewObject.character();
     }
 }
